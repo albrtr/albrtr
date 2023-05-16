@@ -1,9 +1,6 @@
 # Hi there 👋
 
 # Social 📨
-[![Linkedin: albrtpr](https://github.com/albrtr/albrtr/blob/main/icons/linkedin-alt.svg)](https://linkedin.com/in/albrtpr)
-[![Instagram: albrt.r](https://github.com/albrtr/albrtr/blob/main/icons/instagram.svg)](https://instagram.com/albrt.r)
-[![Telegram: albrtpr](https://github.com/albrtr/albrtr/blob/main/icons/telegram-alt.svg)](https://t.me/albrtpr)
 <a href="https://linkedin.com/in/albrtpr">
   <img src="https://github.com/albrtr/albrtr/blob/main/icons/linkedin-alt.svg" alt="Linkedin" width="100" height="100">
 </a>
