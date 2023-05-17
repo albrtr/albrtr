@@ -10,6 +10,6 @@
 <a href="https://instagram.com/albrt.r">
   <img src="https://github.com/albrtr/albrtr/blob/main/icons/instagram.svg" alt="Instagram" width="50" height="50">
 </a>
-<a href="https://clck.ru/34RmrX">
+<a href="https://albrtr.github.io/about/">
   <img src="https://github.com/albrtr/albrtr/blob/main/icons/link-h.svg" alt="Web" width="50" height="50">
 </a>
