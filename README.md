@@ -7,6 +7,3 @@
 <a href="https://linkedin.com/in/albrtpr">
   <img src="https://github.com/albrtr/albrtr/blob/main/icons/linkedin-alt.svg" alt="Linkedin" width="50" height="50">
 </a>
-<a href="https://albrtr.github.io/about/">
-  <img src="https://github.com/albrtr/albrtr/blob/main/icons/link-h.svg" alt="Web" width="50" height="50">
-</a>
